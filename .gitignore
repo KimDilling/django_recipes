@@ -1,0 +1,4 @@
+*/mysecret.py
+*.pyc
+*.sqlite3
+*env_django/
